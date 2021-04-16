@@ -32,10 +32,10 @@ You can find HackerRank programming tutorials and practice problems <a href="htt
 <h4>Challenges</h4>
 <ul>
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Array%20Manipulation.txt">Array Manipulation</a></li>
-  <li><a href="">Zoos</a></li>
-  <li><a href="">Zoos</a></li>
-  <li><a href="">Zoos</a></li>
-  <li><a href="">Zoos</a></li>
+  <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Apple_and_Orange.txt">Apple and Orange</a></li>
+  <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Between_Two_Sets.txt">Between Two Sets</a></li>
+  <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Bike_Racers.txt">Bike Racers</a></li>
+  <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Cats_and_A_Mouse.txt">Cats and a Mouse</a></li>
   <!--li><a href="">Zoos</a></li-->
 </ul>
 </li>
