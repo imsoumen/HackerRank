@@ -36,6 +36,17 @@ You can find HackerRank programming tutorials and practice problems <a href="htt
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Between_Two_Sets.txt">Between Two Sets</a></li>
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Bike_Racers.txt">Bike Racers</a></li>
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Cats_and_A_Mouse.txt">Cats and a Mouse</a></li>
+  <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Challenges.txt">Challenges</a></li>
+  <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/CommonChild.txt">Common Child</a></li>
+  <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Counting_Valleys.txt">Counting Valleys</a></li>
+  <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Cut_the_Sticks.txt">Cut the Sticks</a></li>
+  <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Delete_duplicate-value_nodes.txt">Delete Duplicate Value Nodes</a></li>
+  <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Diagonal_Difference.txt">Diagonal Difference</a></li>
+  <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Even_Fibonacci_Numbers.txt">Even Fibonacci Numbers</a></li>
+  <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/ExtraLongFactorials.txt">Extra Long Factorials</a></li>
+  <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Highest_Value_Palindrome.txt">Highest Value Palindrome</a></li>
+  <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Inserting_NodeInto_Sorted_Doubly_Linked_List.txt">Inserting Node into Sorted Doubly Linked List</a></li>
+  <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Kundu_and_Tree.txt">Kundu and Tree</a></li>
   <!--li><a href="">Zoos</a></li-->
 </ul>
 </li>
