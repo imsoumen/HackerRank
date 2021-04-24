@@ -23,6 +23,7 @@ You can find HackerRank programming tutorials and practice problems <a href="htt
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/30_Days_of_Code/Day_5_Loops.scala">Day 5 - Loops</a></li>
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/30_Days_of_Code/Day_6_Lets_Review.scala">Day 6 - Lets Review</a></li>
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/30_Days_of_Code/Day_7_Arrays.scala">Day 7 - Arrays</a></li>
+  <li><a href="https://github.com/imsoumen/HackerRank/blob/master/30_Days_of_Code/Day_8_Dictionaries_and_Map.scala">Day 8 - Dictionaries and Map</a></li>
 <!--li><a href="">Zoos</a></li-->
 </ul>
 </li>
