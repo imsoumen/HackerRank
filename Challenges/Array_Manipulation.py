@@ -1,3 +1,4 @@
+"""
 Array Manipulation
 -----------------------------
 Link: https://www.hackerrank.com/contests/wissen-coding-challenge-2021/challenges/crush
@@ -39,7 +40,7 @@ After the third update list is 100 200 200 200 100.
 The maximum value is 200.
 
 Solution:
-
+"""
 (Python Solution)
 
 #!/bin/python3
