@@ -1,5 +1,12 @@
 <!DOCTYPE html>
 <html>
+<style>
+.challenges {
+  column-count: 3;
+  column-gap: 40px;
+  column-rule-style: solid;
+}
+</style>
 <body>
 
 <h1>HackerRank solutions</h1>
@@ -32,6 +39,7 @@ You can find HackerRank programming tutorials and practice problems <a href="htt
 <li>
 <h4>Challenges</h4>
 <ul>
+  <div class="challenges">
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Apple_and_Orange.scala">Apple and Orange</a></li>
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Array_Manipulation.py">Array Manipulation</a></li>
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Between_Two_Sets.txt">Between Two Sets</a></li>
@@ -49,6 +57,7 @@ You can find HackerRank programming tutorials and practice problems <a href="htt
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Inserting_NodeInto_Sorted_Doubly_Linked_List.txt">Inserting Node into Sorted Doubly Linked List</a></li>
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Kundu_and_Tree.txt">Kundu and Tree</a></li>
   <!--li><a href="">Zoos</a></li-->
+  </div>
 </ul>
 </li>
 </ul>
