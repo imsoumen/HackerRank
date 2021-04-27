@@ -2,7 +2,7 @@
 <html>
 <head>
 <style>
-ol.a { list-style-type: decimal; }
+  ol.a { list-style-type: decimal; }
 </style>
 </head>
 <body>
