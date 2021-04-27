@@ -1,5 +1,10 @@
 <!DOCTYPE html>
 <html>
+<head>
+<style>
+	ol { list-style-type: decimal; }
+</style>
+</head>
 <body>
 
 <h1>HackerRank solutions</h1>
@@ -31,7 +36,7 @@ You can find HackerRank programming tutorials and practice problems <a href="htt
 <ul style="list-style-type: circle;">
 <li>
 <h4>Challenges</h4>
-<ol style="none" type="1">
+<ol type="1">
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/2D_Array-DS.scala">2D Array DS</a></li>
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Angry_Professor.scala">Angry Professor</a></li>
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Apple_and_Orange.scala">Apple and Orange</a></li>
