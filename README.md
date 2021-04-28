@@ -31,7 +31,7 @@ You can find HackerRank programming tutorials and practice problems <a href="htt
 <ul style="list-style-type: circle;">
 <li>
 <h4>Challenges</h4>
-<il>
+<ul>
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/2D_Array-DS.scala">2D Array DS</a></li>
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Angry_Professor.scala">Angry Professor</a></li>
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Apple_and_Orange.scala">Apple and Orange</a></li>
@@ -91,7 +91,7 @@ You can find HackerRank programming tutorials and practice problems <a href="htt
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/Two_Two.scala">Two Two</a></li>
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/qheap1.scala">Qheap1</a></li>
   <!--li><a href="">Zoos</a></li-->
-</il>
+</ul>
 </li>
 </ul>
 
