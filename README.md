@@ -26,6 +26,9 @@ You can find HackerRank programming tutorials and practice problems <a href="htt
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/30_Days_of_Code/Day_8_Dictionaries_and_Map.scala">Day 8 - Dictionaries and Map</a></li>
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/30_Days_of_Code/Day_9_Recursion_3.scala">Day 9 - Recursion 3</a></li>
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/30_Days_of_Code/Day_10_Binary_Numbers.scala">Day 10 - Binary Numbers</a></li>
+  <li><a href="https://github.com/imsoumen/HackerRank/blob/master/30_Days_of_Code/Day_11_2D_Array.scala">Day 11 - 2D Array</a></li>
+  <li><a href="https://github.com/imsoumen/HackerRank/blob/master/30_Days_of_Code/Day_12_Inheritance.scala">Day 12 - Inheritance</a></li>
+  <li><a href="https://github.com/imsoumen/HackerRank/blob/master/30_Days_of_Code/Day_13_Abstract_Classes.py">Day 13 - Abstract Classes</a></li>
 <!--li><a href="">Zoos</a></li-->
 </ul>
 </li>
