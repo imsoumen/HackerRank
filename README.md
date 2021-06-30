@@ -7,7 +7,7 @@
 <p>
 This repository contains solutions to the problems provided on HackerRank in Scala/Python. The code that I wrote may not be the best possible way to solve the problem. I encourage everyone to provide a better solution by creating a pull request or can write an email to me (soumen_saha@outlook.com). This repository is for practising and helping others who are looking for help.
 
-You can find HackerRank programming tutorials and practice problems <a href="https://www.hackerearth.com/practice/">here</a>..
+You can find HackerRank programming tutorials and practice problems <a href="https://www.hackerrank.com/dashboard">here</a>..
 </p>
 
 <h1>Contents</h1>
@@ -125,9 +125,6 @@ You can find HackerRank programming tutorials and practice problems <a href="htt
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/Challenges/qheap1.scala">Qheap1</a></li>
   <!--li><a href="">Zoos</a></li-->
 </ul>
-</li>
-</ul>
-
 </li>
 </ul>
 
