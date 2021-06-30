@@ -12,13 +12,6 @@ You can find HackerRank programming tutorials and practice problems <a href="htt
 
 <h1>Contents</h1>
 <ul style="list-style-type: circle;">
-### `Table of Contents`
-| SNo. | **Contents** |
-| ---  | ---------    |
-| 1.   | [30 Days of Code](#0-ask-your-doubts) |
-| 2.   | [Challenges](#1-miscellaneous-stuff) |
-| 3.   | [Python](#2-dsa) |
-
 <li>
 <h4>30 Days of Code</h4>
 <ul>
