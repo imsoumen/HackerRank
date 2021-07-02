@@ -15,10 +15,10 @@ You can find HackerRank programming tutorials and practice problems <a href="htt
 <li>
 <h4>30 Days of Code</h4>
 <ul>
-  <li><a href="https://github.com/imsoumen/HackerRank/blob/master/30_Days_of_Code/Day_0_Hello_World.scala">Day 0 - Hello World</a>&nbsp;</li>
-  <li><a href="https://github.com/imsoumen/HackerRank/blob/master/30_Days_of_Code/Day_1_Data_Types.scala">Day 1 - DataTypes</a></li>
-  <li><a href="https://github.com/imsoumen/HackerRank/blob/master/30_Days_of_Code/Day_2_Operators.scala">Day 2 - Operators</a></li>
-  <li><a href="https://github.com/imsoumen/HackerRank/blob/master/30_Days_of_Code/Day_3_Intro_to_Conditional_Statements.scala">Day 3 - Intro to Conditional Statements</a></li>
+  <li><a href="https://github.com/imsoumen/HackerRank/tree/master/30_Days_of_Code/Day_0_Hello_World">Day 0 - Hello World</a>&nbsp;</li>
+  <li><a href="https://github.com/imsoumen/HackerRank/tree/master/30_Days_of_Code/Day_1_Data_Types">Day 1 - DataTypes</a></li>
+  <li><a href="https://github.com/imsoumen/HackerRank/tree/master/30_Days_of_Code/Day_2_Operators">Day 2 - Operators</a></li>
+  <li><a href="https://github.com/imsoumen/HackerRank/tree/master/30_Days_of_Code/Day_3_Intro_to_Conditional_Statements">Day 3 - Intro to Conditional Statements</a></li>
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/30_Days_of_Code/Day_4_Class_vs_Instance.scala">Day 4 - Class vs Instances</a></li>
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/30_Days_of_Code/Day_5_Loops.scala">Day 5 - Loops</a></li>
   <li><a href="https://github.com/imsoumen/HackerRank/blob/master/30_Days_of_Code/Day_6_Lets_Review.scala">Day 6 - Lets Review</a></li>
